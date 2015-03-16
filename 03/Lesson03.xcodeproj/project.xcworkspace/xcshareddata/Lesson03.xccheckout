@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>580EF0FE-C1F9-451B-9C71-9F0AFE40BD44</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lesson03</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>41F72D6CC1BFDFA2E5816BADB78329B4E6A48F5B</key>
+		<string>https://github.com/upulj/ga-mob-upulj-classwork3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>03/Lesson03.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>41F72D6CC1BFDFA2E5816BADB78329B4E6A48F5B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/upulj/ga-mob-upulj-classwork3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>41F72D6CC1BFDFA2E5816BADB78329B4E6A48F5B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>41F72D6CC1BFDFA2E5816BADB78329B4E6A48F5B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ga-mob-upulj-classwork3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
